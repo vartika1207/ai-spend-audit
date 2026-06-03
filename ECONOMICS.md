@@ -1,0 +1,9 @@
+# Economics
+
+Assumption: Credex earns revenue by brokering or reselling discounted AI infrastructure credits. If a startup spends $3,000/month on AI tools or API credits and Credex can save them 20%, the gross savings is $600/month. If Credex captures 25% of the savings as margin or spread, that account is worth about $150/month gross margin, or $1,800/year. Larger accounts can be much more valuable; a $10,000/month AI spend account at the same assumptions is worth about $6,000/year in gross margin.
+
+Channel CAC can be very low at the beginning. Founder DMs cost time, not cash. If 100 targeted DMs take 10 hours and produce 10 audits, and founder time is valued at $50/hour, implied CAC per completed audit is $50. Hacker News and X posts can be near-zero cash CAC but unpredictable. Partnerships with startup newsletters could be $0 upfront if positioned as a free calculator, with CAC becoming the time spent writing useful teardown content.
+
+Profitability depends on the conversion funnel. Example: 1,000 audit completions → 250 email captures → 75 high-savings leads → 20 consultations booked → 6 credit purchases. If an average converted customer is worth $3,000 ARR in gross margin, that cohort creates $18,000 annual gross margin. If total time/content cost was $5,000 equivalent, the channel is attractive.
+
+For this tool to drive $1M ARR in 18 months, Credex needs either high volume or larger accounts. At $3,000 ARR/customer, it needs about 334 active customers. At $10,000 ARR/customer, it needs 100 active customers. A realistic path is 20,000 completed audits, 20% email capture, 20% high-savings qualification, 25% consultation rate, and 20% close rate. That equals 200 customers. At $5,000 average ARR, the tool reaches $1M ARR. The key assumption is that a meaningful share of startups already spend enough on AI tools for Credex to create real savings.
