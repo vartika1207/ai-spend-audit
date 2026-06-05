@@ -49,4 +49,4 @@ create table leads (
 5. I used a honeypot field for basic abuse protection because it is frictionless for legitimate users.
 
 ## Deployed URL
-Add after deployment: `https://your-vercel-url.vercel.app`
+Add after deployment: https://ai-spend-audit-mauve-alpha.vercel.app/
